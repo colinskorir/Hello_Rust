@@ -1,6 +1,6 @@
  Getting Started with Rust – A Beginner’s “Hello, World!” Toolkit
 
-- *Author:* Locco  
+- *Author:* Collins Kiprotich Korir 
 - *Date:* November 2025  
 - *Technology:* Rust (stable toolchain via `rustup`)
 
@@ -156,7 +156,7 @@ Feel free to customize the endpoint or print multiple jokes.
 
  9. Repository & Extras
 
-- GitHub (placeholder): https://github.com/your-username/hello-rust-beginner-toolkit  
+- GitHub (placeholder):   
 - Screenshots & Loom walkthrough live in `screenshots/` and the linked Loom share (replace with your own).  
 - Bonus idea: experiment with more bins such as `cargo run --bin timer` or add tests with `cargo test`.
 
