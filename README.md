@@ -156,7 +156,7 @@ Feel free to customize the endpoint or print multiple jokes.
 
  9. Repository & Extras
 
-- GitHub (placeholder):   
+- GitHub (placeholder): https://github.com/colinskorir/Hello_Rust
 - Screenshots & Loom walkthrough live in `screenshots/` and the linked Loom share (replace with your own).  
 - Bonus idea: experiment with more bins such as `cargo run --bin timer` or add tests with `cargo test`.
 
