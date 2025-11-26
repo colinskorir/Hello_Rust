@@ -1,6 +1,6 @@
  Getting Started with Rust – A Beginner’s “Hello, World!” Toolkit
 
-- *Author:* Locco  
+- *Author:* Collins Kiprotich Korir
 - *Date:* November 2025  
 - *Technology:* Rust (stable toolchain via `rustup`)
 
@@ -35,8 +35,7 @@ Microsoft Windows components, Mozilla Firefox, Discord’s backend, Dropbox sync
 
 ---
 
-#
- 3. Installation & Setup
+## 3. Installation & Setup
 
  macOS / Linux
 ```bash
@@ -156,7 +155,7 @@ Feel free to customize the endpoint or print multiple jokes.
 
  9. Repository & Extras
 
-- GitHub (placeholder): https://github.com/your-username/hello-rust-beginner-toolkit  
+- GitHub (placeholder): https://github.com/colinskorir/Hello_Rust
 - Screenshots & Loom walkthrough live in `screenshots/` and the linked Loom share (replace with your own).  
 - Bonus idea: experiment with more bins such as `cargo run --bin timer` or add tests with `cargo test`.
 
@@ -168,7 +167,6 @@ Feel free to customize the endpoint or print multiple jokes.
    - `02-cargo-run-hello.png` – prompt + greeting sample  
    - `03-cargo-run-joke.png` – joke API output  
    - `04-vscode-setup.png` – editor + extensions panel  
- - Update the Loom URL (if recorded) and keep it alongside these screenshots for quick reviewer access.
 
 *Final thoughts:* Rust’s learning curve is real, but partnering with GenAI as a just-in-time tutor made the process fun instead of frustrating. I’m now confident enough to start shipping real CLI utilities. 🚀
 
