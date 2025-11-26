@@ -1,6 +1,6 @@
  Getting Started with Rust – A Beginner’s “Hello, World!” Toolkit
 
-- *Author:* Collins Kiprotich Korir
+- *Author:* Locco  
 - *Date:* November 2025  
 - *Technology:* Rust (stable toolchain via `rustup`)
 
